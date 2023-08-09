@@ -1,0 +1,8 @@
+C:\Users\allan.vralmeida\source\repos\Atividade Correta CNPJ and CPF\Atividade Correta CNPJ and CPF\obj\Debug\Atividade Correta CNPJ and CPF.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\Atividade Correta CNPJ and CPF\Atividade Correta CNPJ and CPF\obj\Debug\Atividade Correta CNPJ and CPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\Atividade Correta CNPJ and CPF\Atividade Correta CNPJ and CPF\obj\Debug\Atividade_Correta_CNPJ_and_CPF.Validacoes.resources
+C:\Users\allan.vralmeida\source\repos\Atividade Correta CNPJ and CPF\Atividade Correta CNPJ and CPF\obj\Debug\Atividade_Correta_CNPJ_and_CPF.Properties.Resources.resources
+C:\Users\allan.vralmeida\source\repos\Atividade Correta CNPJ and CPF\Atividade Correta CNPJ and CPF\obj\Debug\Atividade Correta CNPJ and CPF.csproj.GenerateResource.cache
+C:\Users\allan.vralmeida\source\repos\Atividade Correta CNPJ and CPF\Atividade Correta CNPJ and CPF\obj\Debug\Atividade Correta CNPJ and CPF.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\Atividade Correta CNPJ and CPF\Atividade Correta CNPJ and CPF\obj\Debug\Validacoes.Form1.resources
+C:\Users\allan.vralmeida\source\repos\Atividade Correta CNPJ and CPF\Atividade Correta CNPJ and CPF\obj\Debug\Validacoes.Program.resources

@@ -1,0 +1,7 @@
+C:\Users\allan.vralmeida\source\repos\FormsValidar\FormsValidar\obj\Debug\net6.0-windows\FormsValidar.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\FormsValidar\FormsValidar\obj\Debug\net6.0-windows\AtividadeFORMS.Form1.resources
+C:\Users\allan.vralmeida\source\repos\FormsValidar\FormsValidar\obj\Debug\net6.0-windows\FormsValidar.csproj.GenerateResource.cache
+C:\Users\allan.vralmeida\source\repos\FormsValidar\FormsValidar\obj\Debug\net6.0-windows\FormsValidar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan.vralmeida\source\repos\FormsValidar\FormsValidar\obj\Debug\net6.0-windows\FormsValidar.AssemblyInfoInputs.cache
+C:\Users\allan.vralmeida\source\repos\FormsValidar\FormsValidar\obj\Debug\net6.0-windows\FormsValidar.AssemblyInfo.cs
+C:\Users\allan.vralmeida\source\repos\FormsValidar\FormsValidar\obj\Debug\net6.0-windows\FormsValidar.csproj.CoreCompileInputs.cache

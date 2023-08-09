@@ -1,0 +1,8 @@
+C:\Users\allan.vralmeida\source\repos\Atividade_Aprovado_Reprovado\Atividade_Aprovado_Reprovado\bin\Debug\Atividade_Aprovado_Reprovado.exe.config
+C:\Users\allan.vralmeida\source\repos\Atividade_Aprovado_Reprovado\Atividade_Aprovado_Reprovado\bin\Debug\Atividade_Aprovado_Reprovado.exe
+C:\Users\allan.vralmeida\source\repos\Atividade_Aprovado_Reprovado\Atividade_Aprovado_Reprovado\bin\Debug\Atividade_Aprovado_Reprovado.pdb
+C:\Users\allan.vralmeida\source\repos\Atividade_Aprovado_Reprovado\Atividade_Aprovado_Reprovado\obj\Debug\Atividade_Aprovado_Reprovado.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\Atividade_Aprovado_Reprovado\Atividade_Aprovado_Reprovado\obj\Debug\Atividade_Aprovado_Reprovado.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\Atividade_Aprovado_Reprovado\Atividade_Aprovado_Reprovado\obj\Debug\Atividade_Aprovado_Reprovado.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\Atividade_Aprovado_Reprovado\Atividade_Aprovado_Reprovado\obj\Debug\Atividade_Aprovado_Reprovado.exe
+C:\Users\allan.vralmeida\source\repos\Atividade_Aprovado_Reprovado\Atividade_Aprovado_Reprovado\obj\Debug\Atividade_Aprovado_Reprovado.pdb

@@ -1,0 +1,8 @@
+C:\Users\allan.vralmeida\source\repos\Validation1Error\Validation1Error\bin\Debug\Validation1Error.exe.config
+C:\Users\allan.vralmeida\source\repos\Validation1Error\Validation1Error\bin\Debug\Validation1Error.exe
+C:\Users\allan.vralmeida\source\repos\Validation1Error\Validation1Error\bin\Debug\Validation1Error.pdb
+C:\Users\allan.vralmeida\source\repos\Validation1Error\Validation1Error\obj\Debug\Validation1Error.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\Validation1Error\Validation1Error\obj\Debug\Validation1Error.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\Validation1Error\Validation1Error\obj\Debug\Validation1Error.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\Validation1Error\Validation1Error\obj\Debug\Validation1Error.exe
+C:\Users\allan.vralmeida\source\repos\Validation1Error\Validation1Error\obj\Debug\Validation1Error.pdb

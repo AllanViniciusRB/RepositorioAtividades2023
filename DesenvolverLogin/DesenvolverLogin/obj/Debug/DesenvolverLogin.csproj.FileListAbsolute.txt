@@ -1,0 +1,11 @@
+C:\Users\allan.vralmeida\source\repos\DesenvolverLogin\DesenvolverLogin\bin\Debug\DesenvolverLogin.exe.config
+C:\Users\allan.vralmeida\source\repos\DesenvolverLogin\DesenvolverLogin\bin\Debug\DesenvolverLogin.exe
+C:\Users\allan.vralmeida\source\repos\DesenvolverLogin\DesenvolverLogin\bin\Debug\DesenvolverLogin.pdb
+C:\Users\allan.vralmeida\source\repos\DesenvolverLogin\DesenvolverLogin\obj\Debug\DesenvolverLogin.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\DesenvolverLogin\DesenvolverLogin\obj\Debug\DesenvolverLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\DesenvolverLogin\DesenvolverLogin\obj\Debug\DesenvolverLogin.Form1.resources
+C:\Users\allan.vralmeida\source\repos\DesenvolverLogin\DesenvolverLogin\obj\Debug\DesenvolverLogin.Properties.Resources.resources
+C:\Users\allan.vralmeida\source\repos\DesenvolverLogin\DesenvolverLogin\obj\Debug\DesenvolverLogin.csproj.GenerateResource.cache
+C:\Users\allan.vralmeida\source\repos\DesenvolverLogin\DesenvolverLogin\obj\Debug\DesenvolverLogin.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\DesenvolverLogin\DesenvolverLogin\obj\Debug\DesenvolverLogin.exe
+C:\Users\allan.vralmeida\source\repos\DesenvolverLogin\DesenvolverLogin\obj\Debug\DesenvolverLogin.pdb

@@ -1,0 +1,17 @@
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\Validation.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\Validation.Form1.resources
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\Validation.csproj.GenerateResource.cache
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\Validation.AssemblyInfoInputs.cache
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\Validation.AssemblyInfo.cs
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\Validation.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\bin\Debug\net7.0-windows\Validation.exe
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\bin\Debug\net7.0-windows\Validation.deps.json
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\bin\Debug\net7.0-windows\Validation.runtimeconfig.json
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\bin\Debug\net7.0-windows\Validation.dll
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\bin\Debug\net7.0-windows\Validation.pdb
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\Validation.dll
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\refint\Validation.dll
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\Validation.pdb
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\Validation.genruntimeconfig.cache
+C:\Users\allan.vralmeida\source\repos\Validation\Validation\obj\Debug\net7.0-windows\ref\Validation.dll

@@ -1,0 +1,15 @@
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\bin\Debug\net6.0\AtividadeJão.exe
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\bin\Debug\net6.0\AtividadeJão.deps.json
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\bin\Debug\net6.0\AtividadeJão.runtimeconfig.json
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\bin\Debug\net6.0\AtividadeJão.dll
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\bin\Debug\net6.0\AtividadeJão.pdb
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\obj\Debug\net6.0\AtividadeJão.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\obj\Debug\net6.0\AtividadeJão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\obj\Debug\net6.0\AtividadeJão.AssemblyInfoInputs.cache
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\obj\Debug\net6.0\AtividadeJão.AssemblyInfo.cs
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\obj\Debug\net6.0\AtividadeJão.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\obj\Debug\net6.0\AtividadeJão.dll
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\obj\Debug\net6.0\refint\AtividadeJão.dll
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\obj\Debug\net6.0\AtividadeJão.pdb
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\obj\Debug\net6.0\AtividadeJão.genruntimeconfig.cache
+C:\Users\allan.vralmeida\source\repos\AtividadeJão\AtividadeJão\obj\Debug\net6.0\ref\AtividadeJão.dll

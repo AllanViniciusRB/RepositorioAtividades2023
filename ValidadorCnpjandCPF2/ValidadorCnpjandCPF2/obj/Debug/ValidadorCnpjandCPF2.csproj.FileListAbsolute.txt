@@ -1,0 +1,6 @@
+C:\Users\allan.vralmeida\source\repos\ValidadorCnpjandCPF2\ValidadorCnpjandCPF2\obj\Debug\ValidadorCnpjandCPF2.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\ValidadorCnpjandCPF2\ValidadorCnpjandCPF2\obj\Debug\ValidadorCnpjandCPF2.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\ValidadorCnpjandCPF2\ValidadorCnpjandCPF2\obj\Debug\AtividadeFORMS.Form1.resources
+C:\Users\allan.vralmeida\source\repos\ValidadorCnpjandCPF2\ValidadorCnpjandCPF2\obj\Debug\ValidadorCnpjandCPF2.Properties.Resources.resources
+C:\Users\allan.vralmeida\source\repos\ValidadorCnpjandCPF2\ValidadorCnpjandCPF2\obj\Debug\ValidadorCnpjandCPF2.csproj.GenerateResource.cache
+C:\Users\allan.vralmeida\source\repos\ValidadorCnpjandCPF2\ValidadorCnpjandCPF2\obj\Debug\ValidadorCnpjandCPF2.csproj.CoreCompileInputs.cache

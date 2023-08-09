@@ -1,0 +1,8 @@
+C:\Users\allan.vralmeida\source\repos\AtividadeValidação\AtividadeValidação\obj\Debug\AtividadeValidação.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\AtividadeValidação\AtividadeValidação\obj\Debug\AtividadeValidação.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\AtividadeValidação\AtividadeValidação\obj\Debug\AtividadeValidação.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\AtividadeValidação\AtividadeValidação\bin\Debug\AtividadeValidação.exe.config
+C:\Users\allan.vralmeida\source\repos\AtividadeValidação\AtividadeValidação\bin\Debug\AtividadeValidação.exe
+C:\Users\allan.vralmeida\source\repos\AtividadeValidação\AtividadeValidação\bin\Debug\AtividadeValidação.pdb
+C:\Users\allan.vralmeida\source\repos\AtividadeValidação\AtividadeValidação\obj\Debug\AtividadeValidação.exe
+C:\Users\allan.vralmeida\source\repos\AtividadeValidação\AtividadeValidação\obj\Debug\AtividadeValidação.pdb

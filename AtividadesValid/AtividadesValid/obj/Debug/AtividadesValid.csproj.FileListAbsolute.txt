@@ -1,0 +1,8 @@
+C:\Users\allan.vralmeida\source\repos\AtividadesValid\AtividadesValid\bin\Debug\AtividadesValid.exe.config
+C:\Users\allan.vralmeida\source\repos\AtividadesValid\AtividadesValid\bin\Debug\AtividadesValid.exe
+C:\Users\allan.vralmeida\source\repos\AtividadesValid\AtividadesValid\bin\Debug\AtividadesValid.pdb
+C:\Users\allan.vralmeida\source\repos\AtividadesValid\AtividadesValid\obj\Debug\AtividadesValid.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\AtividadesValid\AtividadesValid\obj\Debug\AtividadesValid.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\AtividadesValid\AtividadesValid\obj\Debug\AtividadesValid.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\AtividadesValid\AtividadesValid\obj\Debug\AtividadesValid.exe
+C:\Users\allan.vralmeida\source\repos\AtividadesValid\AtividadesValid\obj\Debug\AtividadesValid.pdb

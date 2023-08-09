@@ -1,0 +1,15 @@
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\obj\Debug\net6.0\Atividade Validar CPF.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\obj\Debug\net6.0\Atividade Validar CPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\obj\Debug\net6.0\Atividade Validar CPF.AssemblyInfoInputs.cache
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\obj\Debug\net6.0\Atividade Validar CPF.AssemblyInfo.cs
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\obj\Debug\net6.0\Atividade Validar CPF.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\bin\Debug\net6.0\Atividade Validar CPF.exe
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\bin\Debug\net6.0\Atividade Validar CPF.deps.json
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\bin\Debug\net6.0\Atividade Validar CPF.runtimeconfig.json
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\bin\Debug\net6.0\Atividade Validar CPF.dll
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\bin\Debug\net6.0\Atividade Validar CPF.pdb
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\obj\Debug\net6.0\Atividade Validar CPF.dll
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\obj\Debug\net6.0\refint\Atividade Validar CPF.dll
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\obj\Debug\net6.0\Atividade Validar CPF.pdb
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\obj\Debug\net6.0\Atividade Validar CPF.genruntimeconfig.cache
+C:\Users\allan.vralmeida\source\repos\Atividade Validar CPF\Atividade Validar CPF\obj\Debug\net6.0\ref\Atividade Validar CPF.dll

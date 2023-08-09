@@ -1,0 +1,5 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: AlgoritimosDiversos, Configuração: Debug Any CPU ------
+1>  AlgoritimosDiversos -> C:\Users\allan.vralmeida\source\repos\AlgoritimosDiversos\AlgoritimosDiversos\bin\Debug\AlgoritimosDiversos.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 4:10 PM e levou 00,223 segundos ==========

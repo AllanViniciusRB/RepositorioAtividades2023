@@ -1,0 +1,3 @@
+C:\Users\allan.vralmeida\source\repos\Atividade Produto e Cliente\Atividade Produto e Cliente\obj\Debug\Atividade Produto e Cliente.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\Atividade Produto e Cliente\Atividade Produto e Cliente\obj\Debug\Atividade Produto e Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\Atividade Produto e Cliente\Atividade Produto e Cliente\obj\Debug\Atividade Produto e Cliente.csproj.CoreCompileInputs.cache

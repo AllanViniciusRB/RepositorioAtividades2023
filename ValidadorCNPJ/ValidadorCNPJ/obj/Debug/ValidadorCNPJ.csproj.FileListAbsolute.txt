@@ -1,0 +1,8 @@
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJ\ValidadorCNPJ\obj\Debug\ValidadorCNPJ.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJ\ValidadorCNPJ\obj\Debug\ValidadorCNPJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJ\ValidadorCNPJ\obj\Debug\ValidadorCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJ\ValidadorCNPJ\bin\Debug\ValidadorCNPJ.exe.config
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJ\ValidadorCNPJ\bin\Debug\ValidadorCNPJ.exe
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJ\ValidadorCNPJ\bin\Debug\ValidadorCNPJ.pdb
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJ\ValidadorCNPJ\obj\Debug\ValidadorCNPJ.exe
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJ\ValidadorCNPJ\obj\Debug\ValidadorCNPJ.pdb

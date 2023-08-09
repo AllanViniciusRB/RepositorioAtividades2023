@@ -1,0 +1,8 @@
+C:\Users\allan.vralmeida\source\repos\ValidarCNPJandCPF\ValidarCNPJandCPF\obj\Debug\ValidarCNPJandCPF.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\ValidarCNPJandCPF\ValidarCNPJandCPF\obj\Debug\ValidarCNPJandCPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\ValidarCNPJandCPF\ValidarCNPJandCPF\obj\Debug\ValidarCNPJandCPF.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\ValidarCNPJandCPF\ValidarCNPJandCPF\bin\Debug\ValidarCNPJandCPF.exe.config
+C:\Users\allan.vralmeida\source\repos\ValidarCNPJandCPF\ValidarCNPJandCPF\bin\Debug\ValidarCNPJandCPF.exe
+C:\Users\allan.vralmeida\source\repos\ValidarCNPJandCPF\ValidarCNPJandCPF\bin\Debug\ValidarCNPJandCPF.pdb
+C:\Users\allan.vralmeida\source\repos\ValidarCNPJandCPF\ValidarCNPJandCPF\obj\Debug\ValidarCNPJandCPF.exe
+C:\Users\allan.vralmeida\source\repos\ValidarCNPJandCPF\ValidarCNPJandCPF\obj\Debug\ValidarCNPJandCPF.pdb

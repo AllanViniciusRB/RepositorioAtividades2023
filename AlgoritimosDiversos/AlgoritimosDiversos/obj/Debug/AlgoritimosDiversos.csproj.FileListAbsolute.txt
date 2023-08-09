@@ -1,0 +1,8 @@
+C:\Users\allan.vralmeida\source\repos\AlgoritimosDiversos\AlgoritimosDiversos\obj\Debug\AlgoritimosDiversos.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\AlgoritimosDiversos\AlgoritimosDiversos\obj\Debug\AlgoritimosDiversos.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\AlgoritimosDiversos\AlgoritimosDiversos\obj\Debug\AlgoritimosDiversos.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\AlgoritimosDiversos\AlgoritimosDiversos\bin\Debug\AlgoritimosDiversos.exe.config
+C:\Users\allan.vralmeida\source\repos\AlgoritimosDiversos\AlgoritimosDiversos\bin\Debug\AlgoritimosDiversos.exe
+C:\Users\allan.vralmeida\source\repos\AlgoritimosDiversos\AlgoritimosDiversos\bin\Debug\AlgoritimosDiversos.pdb
+C:\Users\allan.vralmeida\source\repos\AlgoritimosDiversos\AlgoritimosDiversos\obj\Debug\AlgoritimosDiversos.exe
+C:\Users\allan.vralmeida\source\repos\AlgoritimosDiversos\AlgoritimosDiversos\obj\Debug\AlgoritimosDiversos.pdb

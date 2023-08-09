@@ -1,0 +1,7 @@
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJandCPF\ValidadorCNPJandCPF\obj\Debug\net6.0-windows\ValidadorCNPJandCPF.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJandCPF\ValidadorCNPJandCPF\obj\Debug\net6.0-windows\ValidadorCNPJandCPF.Form1.resources
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJandCPF\ValidadorCNPJandCPF\obj\Debug\net6.0-windows\ValidadorCNPJandCPF.csproj.GenerateResource.cache
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJandCPF\ValidadorCNPJandCPF\obj\Debug\net6.0-windows\ValidadorCNPJandCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJandCPF\ValidadorCNPJandCPF\obj\Debug\net6.0-windows\ValidadorCNPJandCPF.AssemblyInfoInputs.cache
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJandCPF\ValidadorCNPJandCPF\obj\Debug\net6.0-windows\ValidadorCNPJandCPF.AssemblyInfo.cs
+C:\Users\allan.vralmeida\source\repos\ValidadorCNPJandCPF\ValidadorCNPJandCPF\obj\Debug\net6.0-windows\ValidadorCNPJandCPF.csproj.CoreCompileInputs.cache

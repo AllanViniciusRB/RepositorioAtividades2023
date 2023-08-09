@@ -1,0 +1,8 @@
+C:\Users\allan.vralmeida\source\repos\OrientacaoObjeto\OrientacaoObjeto\bin\Debug\OrientacaoObjeto.exe.config
+C:\Users\allan.vralmeida\source\repos\OrientacaoObjeto\OrientacaoObjeto\bin\Debug\OrientacaoObjeto.exe
+C:\Users\allan.vralmeida\source\repos\OrientacaoObjeto\OrientacaoObjeto\bin\Debug\OrientacaoObjeto.pdb
+C:\Users\allan.vralmeida\source\repos\OrientacaoObjeto\OrientacaoObjeto\obj\Debug\OrientacaoObjeto.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\OrientacaoObjeto\OrientacaoObjeto\obj\Debug\OrientacaoObjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan.vralmeida\source\repos\OrientacaoObjeto\OrientacaoObjeto\obj\Debug\OrientacaoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\OrientacaoObjeto\OrientacaoObjeto\obj\Debug\OrientacaoObjeto.exe
+C:\Users\allan.vralmeida\source\repos\OrientacaoObjeto\OrientacaoObjeto\obj\Debug\OrientacaoObjeto.pdb

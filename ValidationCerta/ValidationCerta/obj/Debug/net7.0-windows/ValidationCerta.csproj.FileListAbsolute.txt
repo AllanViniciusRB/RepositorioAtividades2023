@@ -1,0 +1,17 @@
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\bin\Debug\net7.0-windows\ValidationCerta.exe
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\bin\Debug\net7.0-windows\ValidationCerta.deps.json
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\bin\Debug\net7.0-windows\ValidationCerta.runtimeconfig.json
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\bin\Debug\net7.0-windows\ValidationCerta.dll
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\bin\Debug\net7.0-windows\ValidationCerta.pdb
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\ValidationCerta.csproj.AssemblyReference.cache
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\ValidationCerta.Form1.resources
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\ValidationCerta.csproj.GenerateResource.cache
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\ValidationCerta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\ValidationCerta.AssemblyInfoInputs.cache
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\ValidationCerta.AssemblyInfo.cs
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\ValidationCerta.csproj.CoreCompileInputs.cache
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\ValidationCerta.dll
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\refint\ValidationCerta.dll
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\ValidationCerta.pdb
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\ValidationCerta.genruntimeconfig.cache
+C:\Users\allan.vralmeida\source\repos\ValidationCerta\ValidationCerta\obj\Debug\net7.0-windows\ref\ValidationCerta.dll
